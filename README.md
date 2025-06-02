@@ -1,4 +1,5 @@
 **🚗 Lane Detection Using OpenCV**
+
 This project demonstrates a basic lane detection system using OpenCV and Python. It processes video frames from a car-mounted camera to identify and highlight road lane markings using computer vision techniques like Canny edge detection, Hough Transform, and brightness normalization.
 
 **🧠 Features**
@@ -28,4 +29,5 @@ pip install opencv-python numpy
 * HoughLinesP: Extracts line segments from the edge-detected image.
 
 **ScreenShot**
-![image](https://github.com/user-attachments/assets/48ad36b9-f88f-4a98-a0a1-f6ab1affa535)
+![image](https://github.com/user-attachments/assets/a6b49509-8b5d-49bc-b0b1-f552cae663d6)
+
